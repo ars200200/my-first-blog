@@ -1,0 +1,32 @@
+h1 a {
+    color: #FCA205;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.card {
+    margin-top: 10px;
+    margin-left: 5%
+}
+
+.text {
+    margin: 10px;
+    margin-left: 15px;
+}
+
+p {
+    margin: 0px;
+}
+
+footer {
+    margin-top: 10px;
+    margin-left: 10%;
+    padding-left: 12px;
+}
+
+.container-fluid {
+    margin-left: 10%;
+    margin-right: 5%;
+}
